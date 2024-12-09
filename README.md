@@ -14,14 +14,18 @@ We created an application that seeks to address the lack of accessible and safe 
 ## Breakdown of the features:
 We integrated Google Maps API to suggest places near you and provide color-coded maps based on severity level. It generates directions with alternate routes if there was a hazard detected. There is also text-to-speech navigation so user can easily listen and follow as they walk.
 
+#### Empowering Users to Report Hazards
 There is a reporting feature for the user to report any hazard they encounter while walking. They can upload an image, location, indicate severity level and more. 
 
-The user-reported data will append to our sidewalk hazards database and users have access to all hazard insights for their safety. City officials can refer to it to identify and prioritize which hazards to address and resolve. 
+#### Data-Driven Insights for Local Governments
+By aggregating user-reported data, StreetSmart provides city officials with actionable insights, such as hazard severity, resources needed, a construction plan and estimated budget. This supports more efficient allocation of resources for repairs and upgrades.
 
-City officials can also generate actionable repair plans and an estimated budget to get started on repairing the hazards. 
+Advocating Inclusivity and Mobility: The platform's focus on the unique challenges faced by wheelchair users and individuals with mobility impairments fosters a more inclusive infrastructure design. The anonymized data helps ensure that decision-making processes are equitable and inclusive of marginalized voices.
+
+
 
 ## Our Solution
-By enabling users—particularly those with physical impairments—to report hazards anonymously, and providing local city officials with data-driven insights for repairs, StreetSmart delivers a meaningful solution that promotes safer, more sustainable, and inclusive urban infrastructure. The platform effectively addresses critical social issues related to inclusivity, mobility, and public safety.
+By enabling users—particularly those with physical impairments—to report hazards anonymously, and providing local city officials with data-driven insights for repairs, StreetSmart delivers a meaningful solution that promotes safer, more sustainable, and inclusive urban infrastructure. The platform effectively bridges the gap between affected communities and decision-makers, fostering a collaborative approach to creating safer, more inclusive, and accessible cities.
 
 
 
