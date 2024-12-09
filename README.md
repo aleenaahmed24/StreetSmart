@@ -1,7 +1,7 @@
 # StreetSmart
 ### Paving the Way to Inclusivity
 
-<img width="130" alt="StreetSmart Logo" src="https://github.com/user-attachments/assets/26967a2c-2cdd-43d5-a610-932c4aeefa22">
+<img width="700" alt="StreetSmart Logo" src="https://github.com/user-attachments/assets/26967a2c-2cdd-43d5-a610-932c4aeefa22">
 
 
 ## Overview
