@@ -1,4 +1,5 @@
-# StreetSmart: Paving the Way to Inclusivity
+# StreetSmart
+### Paving the Way to Inclusivity
 [![Watch the demo video](https://img.youtube.com/vi/w1j6FtyK9QE/0.jpg)](https://youtu.be/w1j6FtyK9QE)
 
 ## Overview
